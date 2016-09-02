@@ -15,6 +15,6 @@ By using a topography-based extrapolation of the simulation results to the entir
 of the archipelago might occur before the end of the 21st century if global warming continues along the course of RCP 8.5. In this case, 98% of the land-terminating glaciers will have retreated to less than one tenth of
 their initial extent by 2100! 
 
-![_config.yml]({{ site.baseurl }}/images/ERL_pic.png)
+![_ERL_pic.png]({{ site.baseurl }}/images/ERL_pic.png)
 
 You access the full paper on [the following link](http://iopscience.iop.org/article/10.1088/1748-9326/11/9/094006/meta) on GitHub.
