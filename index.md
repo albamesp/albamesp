@@ -1,6 +1,6 @@
 layout: page
 title: Chris Williams
-permalink: /
+permalink: /research/
 ---
 
 <div style="float:right; padding-left:20px" markdown="1">
