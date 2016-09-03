@@ -9,7 +9,7 @@ permalink: /
 
 Position: Postdoctoral researcher in Glaciology
 
-Research interests: Remote sensing, GIS, Glaciers, Geospatial analysis, Geostatistics, Open source, Python development, R
+Research interests: Geospatial analysis, Remote sensing, GIS, Glaciers, Geostatistics, Open source, Python development, R
 
 ## Overview
 
