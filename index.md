@@ -1,5 +1,6 @@
+---
 layout: page
-title: Chris Williams
+title: Research
 permalink: /research/
 ---
 
