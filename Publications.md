@@ -5,23 +5,37 @@ permalink: /publications/
 ---
 
 ## Published
+- [M. Möller, F.J. Navarro, A. Martín-Español (2016) Heading towards a loss of all land-terminating glaciers on Svalbard in the 21st century. Environmental Research Letters 11, 9] (http://iopscience.iop.org/article/10.1088/1748-9326/11/9/094006)
 
-- [Jordan, T.M., Bamber, J.L., Williams, C.N., Paden, J.D., Siegert, M.J., Huybrechts, P., Gagliardini, O. and  Gillet-Chaulet, F. (2016) An ice-sheet wide framework for englacial attenuation from ice penetrating radar data. The Cryosphere. 10, 1547-1570. DOI:10.5194/tc-2016-8](http://www.the-cryosphere.net/10/1547/2016/)
+- [A. Martín-Español, J. Lapazaran, J. Otero, F.J. Navarro (2016) On the errors involved in glacier ice-thickness estimates III: Error in glacier volume. Journal of Glaciology. In press, doi=10.1017/jog.2016.93]
+  
+- [J. Lapazaran, J. Otero, A. Martín-Español,  F.J. Navarro (2016) On the errors involved in glacier ice-thickness estimates II: Errors in digital elevation models of ice-thickness. Journal of Glaciology. In press, doi=10.1017/jog.2016.94]
 
-- [Williams, C., Carrivick, J.L., Evans, A.J. and Rippin, D.M. (2016). Quantifying uncertainty in using multiple datasets to determine spatiotemporal ice mass loss over 101 years at Kårsaglaciären, sub-arctic Sweden. Geografiska Annaler: Series A, Physical Geography. 98(1), 61–79. DOI:10.1111/geoa.12123](http://onlinelibrary.wiley.com/enhanced/doi/10.1111/geoa.12123)
+- [J. Lapazaran, J. Otero, A. Martín-Español,  F.J. Navarro (2016) On the errors involved in glacier ice-thickness estimates I: Ground-penetrating radar measurement errors. Journal of Glaciology. In press, doi=10.1017/jog.2016.95]
 
-- [Carrivick, J.L., Berry, K., Geilhausen, M., James, M.H.M., Williams, C., Brown, L.E., Rippin, D.M. and Carver, S.J., (2015). Decadal-scale changes of the Odenwinkelkees, central Austria, suggest increasing control of topography and evolution towards steady state. Geografiska Annaler: Series A, Physical Geography. 97(3), 543–562. DOI:10.1111/geoa.12100](http://onlinelibrary.wiley.com/enhanced/doi/10.1111/geoa.12100)
+- [F.J. Navarro, J. Lapazaran, A. Martín-Español, J. Otero (2016) Ground-penetrating radar studies in Svalbard aimed to the calculation of the ice volume of its glaciers. Cuadernos de Información Geográfica 42, 1]
 
-- [Swindles, G., Reczuga, M., Lamentowicz, M., Raby, C., Turner, T., Charman, D., Gallego-Sala, A.,Valderrama, E., Williams, C., Draper, F., Coronado, E., Roucoux, K., Baker, T. & Mullan, D., (2014). Ecology of Testate Amoebae in an Amazonian Peatland and Development of a Transfer Function for Palaeohydrological Reconstruction. Microbial Ecology, DOI:10.1007/s00248-014-0378-5](http://eprints.whiterose.ac.uk/79110/)
+- [A. Martín-Español, A. Zammit-Mangion, P.Clarke, T. Flament, V. Helm, M. King, S. Luthcke, E. Petrie, F. Rémy, N. Schoen, B. Wouters (2016) Spatial and temporal Antarctic ice sheet mass trends, glacio-isostatic adjustment and surface processes from a joint inversion of satellite altimeter, gravity and GPS data. Journal of Geophysical Research: Earth Surface 121, 1--19]  
+ 
+- [F.J. Navarro, R. Möller, E. Vasilenko, A. Martín-Español, R. Filkelnburg, M. Möller (2015) Ice thickness distribution and hydrothermal structure of Elfenbeinbreen and Sveigbreen, Eastern Spitsbergen, Svalbard. Journal of Glaciology 229, 1015--1018]
+ 
+- [B. Wouters, A. Martín-Español, Wessem, S. R. M. Ligtenberg, M. R. van den Broeke, J. L. Bamber (2015) Dynamic thinning of glaciers on the Southern Antarctic Peninsula. Science 348 (6237), 899--903] 
+ 
+- [A. Martín-Español, F.J. Navarro,  J. Otero, J.J. Lapazaran, M. Blaszczyk (2015) Estimate of the total volume of Svalbard glaciers and their potential contribution to sea-level rise derived from scaling methods. Journal of Glaciology 61(225), 29--47] 
+   
+- [F.J. Navarro, A. Martín-Español, J. Lapazaran, M. Grabiec, J. Otero, E.V. Vasilenko, D. Puczko (2014) Ice volume estimates from ground-penetrating radar surveys, Wedel Jarlsberg Land glaciers, Svalbard.  Arctic, Antarctic and Alpine Research 46(2), 394--406]
+   
+- [A. Martín-Español, E. Vasilenko, F.J. Navarro, J.Otero, J. Lapazaran, I. Lavrentiev, Y. Macheret, F. Machío (2013) Radio-echo sounding and ice volume estimates of western Nordenskiöld Land glaciers, Svalbard. Annals of Glaciology 54(64), 211--217]
+   
+- [F.J. Navarro, U.Y. Jonsell, M.I. Corcuera and A. Martín-Español (2013) Decelerated mass loss of Hurd and Johnsons glaciers, Livingston Island, Antarctic Peninsula. Journal of Glaciology 59(214), 115--128]
+  
+## PhD Thesis
 
-- Williams, C. (2013) Geometric and surface energy balance change affecting Kårsaglaciären, northern Sweden, over the past century. PhD thesis - University of Leeds.
-
-- [Rippin, D.M., Carrivick, J.L., Williams, C., (2011). Evidence towards a thermal lag in the response of small Arctic glaciers to climate change. Journal of Glaciology 57(205), 895-903.](http://www.ingentaconnect.com/content/igsoc/jog/2011/00000057/00000205/art00013)
+- A. Martín-Español (2013) Estimate of the total ice volume of Svalbard glaciers and their potential contribution to sea-level rise (http://oa.upm.es/23180/1/ALBA_MART%C3%8DN_ESPA%C3%91OL.pdf)
+ 
+(http://www.ingentaconnect.com/content/igsoc/jog/2011/00000057/00000205/art00013)
 
 ## Published code (feel free to download and try it out!)
 
 - [A user friendly distributed glacier surface energy balance model](https://github.com/Chris35Wills/SEB_model_java_files)
 
-## In preparation
-
-- Williams, C.N., Bamber, J.L., Jordan, T.M., Cochran, J., Tinto, K., Dowdeswell, J., Siegert, M., Morlighem, M., Cornford, S., Palmer, S. and Paden, J., 20xx. A hydrologically inspired approach to predicting fjord bedrock geometry at the ice-ocean interface of the Greenland Ice Sheet.
