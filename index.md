@@ -5,6 +5,11 @@ permalink: /research/
 published: true
 ---
 
+---
+layout: page
+title: Research
+permalink: /research/
+---
 
 
 Research interests: Geospatial analysis, Remote sensing, GIS, Glaciers, Geostatistics, Open source, Python development, R
@@ -24,4 +29,3 @@ Past projects include:
 - automated assessment of crevasse patterns for assessing crevasse evolution
 - hypersepctral image analysis over tidewater glaciers to identify presence of water 
 - glacier surface velocity mapping using elevation data
-
