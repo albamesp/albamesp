@@ -2,10 +2,11 @@
 layout: page
 title: Research
 permalink: /research/
+published: true
 ---
 
 <div style="float:right; padding-left:20px" markdown="1">
-![Chris Williams](/images/my_face_small.jpg)
+![Alba Martin](/images/under_construction.jpg)
 </div>
 
 Position: Postdoctoral researcher in Glaciology
@@ -14,9 +15,9 @@ Research interests: Geospatial analysis, Remote sensing, GIS, Glaciers, Geostati
 
 ## Overview
 
-I'm a glaciologist working on (or rather underneath) the Greenland ice sheet. 
+I'm a glaciologist working on Antarctica using satellite data. 
 
-I've a keen interest in geospatial problem solving and environmental spatio-temporal relationships - most of my work and development is carried out using [Python](https://www.python.org/). Check out my [blog](../blog) for information on current geo-related solutions as well as tips and tricks relating to on-going code development.
+I've a keen interest in geospatial problem solving and environmental spatio-temporal relationships - most of my work and development is carried out using [R](https://www.r-project.org/). Check out my [blog](../blog) for information on current geo-related solutions as well as tips and tricks relating to on-going code development.
 
 ## Past projects
 
@@ -32,4 +33,4 @@ Past projects include:
 
 Feel free to get in touch - I'm always interested in collaborating or if you have any questions about my work.
 
-[chris.williams@bristol.ac.uk](mailto:chris.williams@bristol.ac.uk)
+[alba.martin@bristol.ac.uk](mailto:alba.martin@bristol.ac.uk)
