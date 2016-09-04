@@ -31,7 +31,7 @@ permalink: /publications/
   
 ## PhD Thesis
 
-- A. Martín-Español (2013) Estimate of the total ice volume of Svalbard glaciers and their potential contribution to sea-level rise (http://oa.upm.es/23180/1/ALBA_MART%C3%8DN_ESPA%C3%91OL.pdf)
+- [A. Martín-Español (2013) Estimate of the total ice volume of Svalbard glaciers and their potential contribution to sea-level rise] (http://oa.upm.es/23180/1/ALBA_MART%C3%8DN_ESPA%C3%91OL.pdf)
  
 ## Published code (feel free to download and try it out!)
 
