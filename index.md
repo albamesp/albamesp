@@ -5,15 +5,11 @@ permalink: /research/
 published: true
 ---
 
-<div style="float:right; padding-left:20px" markdown="1">
-![Alba Martin](/images/under_construction.jpg)
-</div>
 
-Position: Postdoctoral researcher in Glaciology
 
 Research interests: Geospatial analysis, Remote sensing, GIS, Glaciers, Geostatistics, Open source, Python development, R
 
-## Overview
+## Interests
 
 I'm a glaciologist working on Antarctica using satellite data. 
 
@@ -29,8 +25,3 @@ Past projects include:
 - hypersepctral image analysis over tidewater glaciers to identify presence of water 
 - glacier surface velocity mapping using elevation data
 
-## Contact me
-
-Feel free to get in touch - I'm always interested in collaborating or if you have any questions about my work.
-
-[alba.martin@bristol.ac.uk](mailto:alba.martin@bristol.ac.uk)
