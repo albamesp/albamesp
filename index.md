@@ -12,7 +12,7 @@ permalink: /research/
 ---
 
 
-Research interests: Geospatial analysis, Remote sensing, GIS, Glaciers, Geostatistics, Open source, Python development, R
+Research interests: Geospatial analysis, Visualization applications, Remote sensing, GIS, Glaciers, Geostatistics, Open source, Python development, R
 
 ## Interests
 
