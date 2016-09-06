@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## Published
-- [M. Möller, F.J. Navarro, A. Martín-Español (2016) Heading towards a loss of all land-terminating glaciers on Svalbard in the 21st century. Environmental Research Letters 11, 9](http://iopscience.iop.org/article/10.1088/1748-9326/11/9/094006)
+- [M. Möller, F.J. Navarro, A. Martín-Español (2016) Monte Carlo modelling projects the loss of most land-terminating glaciers on Svalbard in the 21st century under RCP 8.5 forcing. Environmental Research Letters 11, 9](http://iopscience.iop.org/article/10.1088/1748-9326/11/9/094006)
 
 - A. Martín-Español, J. Lapazaran, J. Otero, F.J. Navarro (2016) On the errors involved in glacier ice-thickness estimates III: Error in glacier volume. Journal of Glaciology. In press, doi=10.1017/jog.2016.93
   
