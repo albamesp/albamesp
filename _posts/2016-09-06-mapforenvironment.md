@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: Mapping the Unmapped - Mapping for Environment:A crow-sourced mapping application
 ---
