@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping for Environment: A crow-sourced mapping application
+title: Mapping for Environment
 ---
 Today I came across this amazing initiative [mapforenvironment.org](https://mapforenvironment.org/), lying at the boundary between environmental activism and mapping geekness. Obviously I couldn't be writing about anything else right now!
 
