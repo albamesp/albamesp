@@ -12,5 +12,5 @@ It is a crow-sourcing platform where A community of volunteers from all over the
 
 Map for Environment combines OpenStreetMap mapping tools with open-source satellite imagery and location data of known logging, industrial agriculture, dam, and fracking locations to create 
 detailed maps of infrastructure, size, as well as communities impacted. Mapped data is shared on OpenStreetMap b the users and will also
- available on [Maphubs](http://maphubs.com)..
+ available on [Maphubs](http://maphubs.com).
 
