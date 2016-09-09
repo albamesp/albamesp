@@ -6,7 +6,7 @@ published: true
 ---
 
 <div style="float:right; padding-left:20px" markdown="1">
-![Alba Martin](/images/me.jpg)
+![Alba Martin](/images/rsz_me.jpg)
 </div>
 
 Position: Postdoctoral researcher in Glaciology
