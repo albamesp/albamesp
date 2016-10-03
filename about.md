@@ -9,7 +9,7 @@ published: true
 ![Alba Martin](/images/rsz_me2.jpg)
 </div>
 
-I am a researcher at the Bristol Glaciology Center, University of Bristol, UK. My research focuses on the study
+I am a researcher at the University of Bristol (UK). My research focuses on the study
 of the Antarctic Ice Sheet using satellite observations. I use a variety of space geodetic and in situ observations
 to investigate changes in the Antarctic system and their relationship to climate change.
 
