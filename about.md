@@ -9,16 +9,15 @@ published: true
 ![Alba Martin](/images/rsz_me2.jpg)
 </div>
 
-Position: Postdoctoral researcher in Glaciology
+I am a researcher at the Bristol Glaciology Center, University of Bristol, UK. My research focuses on the study
+of the Antarctic Ice Sheet using satellite observations. I use a variety of space geodetic and in situ observations
+to investigate changes in the Antarctic system and their relationship to climate change.
 
-Research interests: Geospatial analysis, Remote sensing, GIS, Glaciers, Geostatistics, Open source, Python development, R
+Research interests: Geospatial analysis, spatio-temporal modelling, remote sensing, GIS, glaciers, geostatistics, Open source, [R](https://www.r-project.org/)
 
 ## Overview
 
-I'm a glaciologist working on Antarctica using satellite data. 
-
-I've a keen interest in geospatial problem solving and environmental spatio-temporal relationships - most of my work and development is carried out using [R](https://www.r-project.org/). Check out my [blog](../blog) for information on current geo-related solutions as well as tips and tricks relating to on-going code development.
-
+I have started this site with the purpose of keeping information, code and papers available. 
 
 ## Contact me
 
