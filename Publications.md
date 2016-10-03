@@ -37,4 +37,4 @@ permalink: /publications/
 
 ## Published code (feel free to download and try it out!)
 
-- Under development: Geo-application for interactive visualisation of Antarctic Mass Balance
+- Under development: Geo-application for interactive visualisation of Antarctic Mass Balance (D3.js)
