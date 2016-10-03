@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-My current project aim to determining the time evolving global contribution of ice to the oceans, the individual factors affecting sea level change and glacio isostatic adjustment, simultaneously.
+My current project aims to determining the time evolving global contribution of ice to the oceans, the individual factors affecting sea level change and glacio isostatic adjustment, simultaneously.
 
 ## Interests
 My Research interests lie at the frontier between environmental sciences, algorithm development for big data analysis and GIS-related solutions.
