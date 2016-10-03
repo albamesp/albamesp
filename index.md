@@ -9,17 +9,14 @@ Research interests: Geospatial analysis, data visualization, Remote sensing, GIS
 
 Interests
 
-I'm a glaciologist working on Antarctica using satellite data. 
+My reseach interests lie at the frontier between environmental sciences, algorithm development for big data analysis and GIS-related solutions. 
 
-I've a keen interest in geospatial problem solving and environmental spatio-temporal relationships - most of my work and development is carried out using [R](https://www.r-project.org/).
-Check my [blog](http://albamesp.github.io/) to find out about some of the geo-related problems I have worked over these years as well as tips and tricks relating to on-going code development.
+Check my [blog](http://albamesp.github.io/) and my [Github page] (https://github.com/albamesp) to find out my on-going code development projects.
 
 ## Past projects
 
 Past projects include:
-
-- glacier bedrock topography through the compilation of ice-penetrating radar and satellite digital elevation models
-- supervised classification algorithms for image processing
-- feature-tracking algorithms to obtain surface velocity fields for a glacier in Alaska
+- Supervised classification algorithms for image processing
+- Feature-tracking algorithms to obtain surface velocity fields for a glacier in Alaska
 - Multivariate regression models for sea-level rise problems
- 
+- Glacier bedrock topography through the compilation of ice-penetrating radar and satellite digital elevation models of glaciers in Svalbard
