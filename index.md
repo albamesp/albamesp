@@ -6,7 +6,7 @@ permalink: /research/
 My current project aims to determining the time evolving global contribution of ice to the oceans, the individual factors affecting sea level change and glacio isostatic adjustment, simultaneously.
 
 ## Interests
-My research interests lie at the boundary between environmental sciences, analysis of big data analysis and development of geospatial solutions and visualizations. 
+My research interests lie at the boundary between environmental sciences, analysis of big data and development of geospatial solutions and visualizations. 
 
 Check my [blog](http://albamesp.github.io/) and my [Github page](https://github.com/albamesp) to find out about my on-going code development projects.
 
