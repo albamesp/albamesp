@@ -9,7 +9,7 @@ published: true
 ![Alba Martin](/images/rsz_me2.jpg)
 </div>
 
-My name is Alba Martín and I am a geospatial data scientist. I currently work at the University of Bristol (UK) within the Remote Sensing group at the Bristol Glaciology centre.
+My name is Alba Martín and I am a geospatial data scientist. I currently work at the University of Bristol (UK) within the Remote Sensing group.
 My research focuses on the study of the Antarctic Ice Sheet using satellite observations. I use a variety of space geodetic and in situ observations
 to investigate changes in the Antarctic system and their relationship to climate change.
 
